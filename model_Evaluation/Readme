@@ -1,0 +1,7 @@
+Road Jsonfile notes:
+
+Solid line: Pattern 1, Function: 1 or 2, if function is 1 ,means it is in the lower position, else it is in the upper position
+
+Dash line: Pattern 2, Function: 3
+
+Boundary line: Structure: 3, funtion 1 or 2
