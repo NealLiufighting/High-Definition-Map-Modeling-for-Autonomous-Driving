@@ -1,6 +1,6 @@
 ## Introductioin
 This is a research project supported by [HERE](https://www.here.com/en) company.
-Therefore, the datasets and some codes of the algorithm are confidential so won't be shown in this repo.If you want to learn more about the dataset and algorithm, please read this project's paper  
+Therefore, the datasets and some codes of the algorithm are confidential so won't be shown in this repo.If you want to learn more about the dataset and algorithm, please read this project's paper [Lane Boundary Extraction from Satellite Imagery](other_file.md)
 
 Automated driving is becoming a reality. In this new reality, High
 Definition (HD) Maps play an important role in path planning and
